@@ -8,7 +8,7 @@ Dive into “Serverless JavaScript with AWS Lambda in 7 days” right away to ru
 Towards the end of this course, you will be able to build efficient serverless web applications with AWS Lambda and JavaScript. By deploying Lambda, you can reduce the amount of time it takes to send updates to your production system. You will also gain an edge in the Serverless Computing world and be confident to use it in your own projects or apply for some of the high-paid jobs. 
 
 ## Author Bio
-<b>Darshit Anant Pandya</b> is an AWS Certified Solutions Architect with over 9 years of experience working with clients to develop solid software solutions and architecture to solve problems.
+<b>Darshit Pandya</b> is an AWS Certified Solutions Architect with over 9 years of experience working with clients to develop solid software solutions and architecture to solve problems.
 I am working as a software engineer and he is also the founder of Think Digital Web where we help businesses to get end-to-end software solutions and digital marketing services. 
 He is a serverless evangelist, serverless meetup speaker and possesses a Microsoft and javascript background. He specializes in a range of technologies including C#, .Net, SQL server, React, Cloud technologies, CI/CD pipelines, and Serverless solutions.
 He enjoys problem-solving to help businesses, and his current interest includes enterprise level software architecture, APIs as a first-class citizen and cloud architecture using AWS and Microservices.
@@ -17,7 +17,7 @@ You can contact him either on Twitter or LinkedIn.
 twitter handle is @darshitpandya9
 LinkedIn profile www.linkedin.com/in/darshitpandya
 
-<b>Krina Vora Pandya</b> is a Google Ads certified professional working in the digital industry with over 7 years of experience. Currently, She works as an SEO Manager for a digital marketing agency and she is also the co-founder of Think Digital Web where she plays a vital role in driving the business’s online growth and success.
+<b>Krina Pandya</b> is a Google Ads certified professional working in the digital industry with over 7 years of experience. Currently, She works as an SEO Manager for a digital marketing agency and she is also the co-founder of Think Digital Web where she plays a vital role in driving the business’s online growth and success.
 Also, from formulation of quantifiable strategies right down to unique content creation and optimizations to increase the ROI of business, she believes in driving all the mission-critical work inside a structured road map. She has a sound understanding of web architecture and software applications. You can connect her through her LinkedIn profile: www.linkedin.com/in/krinavorapandya
 
 <H2>What You Will Learn</H2>
