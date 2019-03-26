@@ -1,0 +1,19 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "VisualEditor0",
+      "Effect": "Allow",
+      "Action": [
+        "dynamodb:BatchWriteItem",
+        "dynamodb:PutItem",
+        "dynamodb:Query"
+      ],
+      "Resource": [
+        "arn:aws:dynamodb:ap-southeast-2:890826161226:table/Chat-Conversations",
+        "arn:aws:dynamodb:ap-southeast-2:890826161226:table/Chat-Messages",
+        "arn:aws:dynamodb:ap-southeast-2:890826161226:table/Chat-Conversations/index/Username-ConversationId-index"
+      ]
+    }
+  ]
+}
