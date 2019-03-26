@@ -1,0 +1,4 @@
+var poolData = {
+    UserPoolId: '',
+    ClientId: ''
+};
