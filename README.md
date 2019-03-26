@@ -1,6 +1,6 @@
 # Serverless-JavaScript-with-AWS-Lambda-in-7-Days
 
-This is the code repository for Serverless JavaScript with AWS Lambda in 7 Days [Video](https://www.packtpub.com/web-development/automating-web-testing-selenium-and-python-video, published by [Packt](https://www.packtpub.com/web-development/serverless-javascript-aws-lambda-7-days-video). It contains all the supporting project files necessary to work through the video course from start to finish.
+This is the code repository for Serverless JavaScript with AWS Lambda in 7 Days [Video](https://www.packtpub.com/web-development/automating-web-testing-selenium-and-python-video), published by [Packt](https://www.packtpub.com/web-development/serverless-javascript-aws-lambda-7-days-video). It contains all the supporting project files necessary to work through the video course from start to finish.
 
 ## About the Video Course
 	Serverless architecture based on AWS Lambda and JavaScript defines the future of web development and is also a "new superpower" that allows you to eliminate the issues of "traditional" web hosting. More and more enterprises are moving serverless to save time, cost, and resources and for increased security. 
