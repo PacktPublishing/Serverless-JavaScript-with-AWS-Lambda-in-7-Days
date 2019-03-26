@@ -3,7 +3,7 @@
 This is the code repository for [Serverless JavaScript with AWS Lambda in 7 Days [Video]](https://prod.packtpub.com/in//web-development/serverless-javascript-aws-lambda-7-days-video), published by [Packt](https://www.packtpub.com/). It contains all the supporting project files necessary to work through the video course from start to finish.
 
 ## About the Video Course
-	Serverless architecture based on AWS Lambda and JavaScript defines the future of web development and is also a "new superpower" that allows you to eliminate the issues of "traditional" web hosting. More and more enterprises are moving serverless to save time, cost, and resources and for increased security. 
+Serverless architecture based on AWS Lambda and JavaScript defines the future of web development and is also a "new superpower" that allows you to eliminate the issues of "traditional" web hosting. More and more enterprises are moving serverless to save time, cost, and resources and for increased security. 
 Dive into “Serverless JavaScript with AWS Lambda in 7 days” right away to run your code without thinking about any servers and get charged only when your code actually runs. Each section is followed by hands-on, practical assignments as homework to help you in readily implementing the learnings in a functional manner. All you need to get your job done is upload your code and define when it should get executed. And, Lambda will take care of everything required to run and scale your code.
 Towards the end of this course, you will be able to build efficient serverless web applications with AWS Lambda and JavaScript. By deploying Lambda, you can reduce the amount of time it takes to send updates to your production system. You will also gain an edge in the Serverless Computing world and be confident to use it in your own projects or apply for some of the high-paid jobs. 
 
@@ -36,9 +36,6 @@ Also, from formulation of quantifiable strategies right down to unique content c
 ## Instructions and Navigation
 ### Assumed Knowledge
 This course is for any programmer who know JavaScript or would like to become a JavaScript developer and who want to learn to build serverless web applications with AWS Lambda and JavaScript. If you have no prior experience with serverless technologies or have a project to work on, this course will help you achieve your tasks. Basic JavaScript programming skills would be very helpful.
-
-### Technical Requirements
-If you have no prior experience with serverless technologies or have a project to work on, this course will help you achieve your tasks. Basic JavaScript programming skills would be very helpful.<br/>
 
 ## Related Products
 * [Hands-on Serverless Architecture with AWS Lambda [Video]](https://prod.packtpub.com/in/virtualization-and-cloud/hands-serverless-architecture-aws-lambda-video)
