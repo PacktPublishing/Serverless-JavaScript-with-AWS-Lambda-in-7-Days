@@ -13,12 +13,13 @@ I am working as a software engineer and he is also the founder of Think Digital 
 He is a serverless evangelist, serverless meetup speaker and possesses a Microsoft and javascript background. He specializes in a range of technologies including C#, .Net, SQL server, React, Cloud technologies, CI/CD pipelines, and Serverless solutions.
 He enjoys problem-solving to help businesses, and his current interest includes enterprise level software architecture, APIs as a first-class citizen and cloud architecture using AWS and Microservices.
 He also has hands-on experience developing software in multiple domains like Travel, Accounting, E-Commerce, Banking by making use of appropriate patterns and practices. 
-You can contact him either on Twitter or LinkedIn.
-twitter handle is @darshitpandya9
-LinkedIn profile www.linkedin.com/in/darshitpandya
+You can contact him either on Twitter or LinkedIn.<br/>
+<b>Twitter handle</b> is <a href="https://twitter.com/darshitpandya9" rel="nofollow">@darshitpandya9</a><br/>
+<b>LinkedIn profile</b> is www.linkedin.com/in/darshitpandya
 
 <b>Krina Pandya</b> is a Google Ads certified professional working in the digital industry with over 7 years of experience. Currently, She works as an SEO Manager for a digital marketing agency and she is also the co-founder of Think Digital Web where she plays a vital role in driving the business’s online growth and success.
-Also, from formulation of quantifiable strategies right down to unique content creation and optimizations to increase the ROI of business, she believes in driving all the mission-critical work inside a structured road map. She has a sound understanding of web architecture and software applications. You can connect her through her LinkedIn profile: www.linkedin.com/in/krinavorapandya
+Also, from formulation of quantifiable strategies right down to unique content creation and optimizations to increase the ROI of business, she believes in driving all the mission-critical work inside a structured road map. She has a sound understanding of web architecture and software applications. You can connect her through her <br/>
+<b>LinkedIn profile</b> is www.linkedin.com/in/krinavorapandya
 
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
